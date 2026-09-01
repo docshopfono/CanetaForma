@@ -1,4 +1,4 @@
-/* Estilização corporativa ShopFONO (#0E3A55) e ocultação do texto do cabeçalho */
+/* Estilização corporativa ShopFONO (#0E3A55) e centralização do texto do cabeçalho */
 
 .md-header {
   background-color: #0E3A55 !important;
@@ -8,10 +8,25 @@
   background-color: #0E3A55 !important;
 }
 
-/* Ocultar o texto do título (ex: CanetaForma) na barra de navegação do topo */
+/* Centralizar o texto "CanetaForma" na barra de navegação do topo */
 .md-header__title,
 .md-header__topic {
-  display: none !important;
+  display: block !important;
+  text-align: center !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  font-weight: bold;
+}
+
+.md-header__inner {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+/* Centralizar os títulos H1 das páginas */
+h1 {
+  text-align: center !important;
 }
 
 .logo-header-panel {
