@@ -1,1 +1,1 @@
-mkdocs-msaterial
+mkdocs-material
