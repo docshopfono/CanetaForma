@@ -1,3 +1,3 @@
-cd \sistema\doctotal
+cd \ShopFono\GithubManual
 Mkdocs build
 Pause

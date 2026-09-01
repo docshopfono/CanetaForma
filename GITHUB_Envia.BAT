@@ -3,10 +3,10 @@ setlocal enabledelayedexpansion
 :: ======================================================
 :: CONFIGURACOES DE PRODUCAO
 :: ======================================================
-set REPO_URL=https://github.com/suportedbnet-ux/totalcap-docs.git
-set GIT_USER=suportedbnet-ux
-set GIT_EMAIL=suporte.dbnet@gmail.com
-set DIST_DIR=C:\Sistema\Doctotal
+set REPO_URL=https://github.com/CarlosShopfono/CanetaForma.git
+set GIT_USER=CarlosShopfono
+set GIT_EMAIL=carlos.dbnet@gmail.com
+set DIST_DIR=C:\ShopFono\GithubManual
 :: ======================================================
 
 :: 1. Validar se esta no diretorio correto

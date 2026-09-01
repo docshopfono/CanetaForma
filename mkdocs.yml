@@ -1,5 +1,5 @@
-site_name: CanetaForma
-site_url: https://docshopfono.github.io/CanetaForma/
+site_name: Manual Extensor Caneta FORMA - ShopFONO
+site_url: https://carlosshopfono.github.io/CanetaForma/
 
 theme:
   name: material
@@ -23,6 +23,8 @@ markdown_extensions:
   - pymdownx.tabbed
 
 nav:
-  - Início: index.md
-  - Instalação: instalacao.md
-  - Uso: uso.md
+  - Início: README.md
+  - Português: pt-BR/README.md
+  - English: en-US/README.md
+  - Español: es-ES/README.md
+

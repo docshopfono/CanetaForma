@@ -7,7 +7,7 @@ setlocal enabledelayedexpansion
 :: Este script faz deploy do site estatico para o branch gh-pages
 :: ======================================================
 
-cd /d C:\Sistema\doctotal
+cd /d C:\ShopFono\GithubManual
 
 echo ======================================================
 echo   Deploy MkDocs para GitHub Pages
@@ -46,7 +46,7 @@ if errorlevel 1 (
     echo [!] ERRO: Falha ao fazer deploy!
     echo.
     echo Tente manualmente:
-    echo   cd C:\Sistema\doctotal
+    echo   cd C:\ShopFono\GithubManual
     echo   git push origin gh-pages --force
 ) else (
     echo.
@@ -54,7 +54,7 @@ if errorlevel 1 (
     echo   DEPLOY CONCLUIDO COM SUCESSO!
     echo ======================================================
     echo   Site disponivel em:
-    echo   https://suportedbnet-ux.github.io/totalcap-docs/
+    echo   https://carlosshopfono.github.io/CanetaForma/
 )
 
 echo.
