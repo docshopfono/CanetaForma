@@ -17,15 +17,15 @@ theme:
 plugins:
   - search
 
-extra_css:
-  - stylesheets/extra.css
-
 markdown_extensions:
   - admonition
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.tabbed
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Início (Português): index.md

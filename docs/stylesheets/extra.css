@@ -1,7 +1,4 @@
-:root {
-  --md-primary-fg-color: #0E3A55;
-  --md-primary-fg-color--dark: #092639;
-}
+/* Estilização do cabeçalho MkDocs com a cor corporativa ShopFONO (#0E3A55) */
 
 .md-header {
   background-color: #0E3A55 !important;
@@ -9,4 +6,19 @@
 
 .md-tabs {
   background-color: #0E3A55 !important;
+}
+
+.logo-header-panel {
+  background-color: #0E3A55;
+  padding: 25px 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.logo-header-panel img {
+  max-width: 360px;
+  width: 100%;
+  height: auto;
+  display: inline-block;
 }
