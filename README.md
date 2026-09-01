@@ -91,7 +91,7 @@ Siga as etapas abaixo para utilização do Extensor Caneta FORMA®:
 6. Aplique gel condutor nos eletrodos condutivos para utilização em regiões extraorais. **Não utilizar gel em regiões intraorais.**
 7. Após o uso, higienize o Extensor Caneta FORMA® e os eletrodos conforme este manual e acondicione-os na embalagem plástica original. Extensor e eletrodos são de uso individual.
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > **Tempo de uso:** de acordo com indicação do profissional.
 
 ---
@@ -100,7 +100,7 @@ Siga as etapas abaixo para utilização do Extensor Caneta FORMA®:
 
 É importante cuidar da higienização do par de caneta e eletrodos, mantendo-os sempre bem secos e limpos. Lavar com sabão neutro manualmente.
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Higienizar antes da primeira utilização e após cada uso.
 
 ### Procedimento de higienização
@@ -114,7 +114,7 @@ Siga as etapas abaixo para utilização do Extensor Caneta FORMA®:
 
 Produto de uso individual.
 
-> [!WARNING]
+> [!ATENÇÃO]
 > Não reutilizar o produto em outro indivíduo.
 
 ---
@@ -151,7 +151,7 @@ As embalagens contendo os produtos devem ser armazenadas e transportadas em temp
 * À luz;
 * À umidade.
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Transportar e manter o produto em local seco e fresco.
 
 ---
@@ -174,7 +174,7 @@ O produto não deve ser applied em:
 * Escoriações;
 * Feridas abertas.
 
-> [!WARNING]
+> [!ATENÇÃO]
 > Não utilizar se a embalagem estiver aberta ou violada.
 
 ---
