@@ -5,24 +5,8 @@
 <h1 align="center">Extensor Caneta FORMA®</h1>
 
 <p align="center">
-  <b>Manual de Instruções de Uso Multilíngue / Multilingual Instructions for Use / Manual de Instrucciones Multilingüe</b>
+  [🇧🇷 Português](../pt-BR/README.md) • [🇺🇸 English](../en-US/README.md) • [🇪🇸 Español](../es-ES/READ
 </p>
-
-<p align="center">
-  [🇧🇷 <b>Português</b>](docs/pt-BR/README.md) &nbsp;•&nbsp;
-  [🇺🇸 <b>English</b>](docs/en-US/README.md) &nbsp;•&nbsp;
-  [🇪🇸 <b>Español</b>](docs/es-ES/README.md)
-</p>
-
----
-
-## 📌 Selecione seu Idioma / Select your Language / Seleccione su Idioma
-
-* 🇧🇷 **[Português (Brasil)](docs/pt-BR/README.md)** — Manual de Instruções de Uso oficial (DOC 2 - Rev. 10).
-* 🇺🇸 **[English](docs/en-US/README.md)** — Official Instructions for Use manual (DOC 2 - Rev. 10).
-* 🇪🇸 **[Español](docs/es-ES/README.md)** — Manual de Instrucciones de Uso oficial (DOC 2 - Rev. 10).
-
----
 
 ## 📋 Informações do Documento / Document Information
 
