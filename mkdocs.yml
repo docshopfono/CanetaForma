@@ -25,8 +25,7 @@ markdown_extensions:
   - pymdownx.tabbed
 
 nav:
-  - Início: index.md
-  - Português: pt-BR/README.md
+  - Início (Português): index.md
   - English: en-US/README.md
   - Español: es-ES/README.md
 
