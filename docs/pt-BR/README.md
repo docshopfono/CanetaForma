@@ -1,9 +1,9 @@
 # ShopFONO — Instruções de Uso do Extensor Caneta FORMA®
 
 <p align="center">
-  <a href="docs/pt-BR/README.md"><b>???? Português</b></a> •
-  <a href="docs/en-US/README.md"><b>???? English</b></a> •
-  <a href="docs/es-ES/README.md"><b>???? Español</b></a>
+  <a href="../pt-BR/"><b>🇧🇷 Português</b></a> •
+  <a href="../en-US/"><b>🇺🇸 English</b></a> •
+  <a href="../es-ES/"><b>🇪🇸 Español</b></a>
 </p>
 
 ---
@@ -210,7 +210,7 @@ Para informações, dúvidas ou atendimento relacionado ao produto, utilize os c
 <p align="center">
   <b>ShopFONO — Extensor Caneta FORMA®</b><br>
   Código do Documento: DOC 2 | Revisão: 10 | Notificação ANVISA: 81379320001<br><br>
-  <a href="docs/pt-BR/README.md"><b>🇧🇷 Português</b></a> •
-  <a href="docs//en-US/README.md"><b>🇺🇸 English</b></a> •
-  <a href="docs/es-ES/README.md"><b>🇪🇸 Español</b></a>
+  <a href="../pt-BR/"><b>🇧🇷 Português</b></a> •
+  <a href="../en-US/"><b>🇺🇸 English</b></a> •
+  <a href="../es-ES/"><b>🇪🇸 Español</b></a>
 </p>

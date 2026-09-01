@@ -3,9 +3,9 @@
 <p align="center">
   <b>Manual de Instruções de Uso Multilíngue / Multilingual Instructions for Use / Manual de Instrucciones Multilingüe</b>
   <br><br>
-  <a href="docs/pt-BR/README.md"><b>🇧🇷 Português</b></a> •
-  <a href="docs/en-US/README.md"><b>🇺🇸 English</b></a> •
-  <a href="docs/es-ES/README.md"><b>🇪🇸 Español</b></a>
+  <a href="docs/pt-BR/"><b>🇧🇷 Português</b></a> •
+  <a href="docs/en-US/"><b>🇺🇸 English</b></a> •
+  <a href="docs/es-ES/"><b>🇪🇸 Español</b></a>
 </p>
 
 ---
