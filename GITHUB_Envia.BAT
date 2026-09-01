@@ -3,9 +3,9 @@ setlocal enabledelayedexpansion
 :: ======================================================
 :: CONFIGURACOES DE PRODUCAO
 :: ======================================================
-set REPO_URL=https://github.com/CarlosShopfono/CanetaForma.git
-set GIT_USER=CarlosShopfono
-set GIT_EMAIL=carlos.dbnet@gmail.com
+set REPO_URL=https://github.com/docshopfono/CanetaForma.git
+set GIT_USER=docshopfono
+set GIT_EMAIL=carlos.shopfono@gmail.com
 set DIST_DIR=C:\ShopFono\GithubManual
 :: ======================================================
 

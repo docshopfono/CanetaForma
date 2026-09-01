@@ -54,7 +54,7 @@ if errorlevel 1 (
     echo   DEPLOY CONCLUIDO COM SUCESSO!
     echo ======================================================
     echo   Site disponivel em:
-    echo   https://carlosshopfono.github.io/CanetaForma/
+    echo   https://docsshopfono.github.io/CanetaForma/
 )
 
 echo.
