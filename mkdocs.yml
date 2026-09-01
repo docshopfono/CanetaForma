@@ -3,6 +3,8 @@ site_url: https://docshopfono.github.io/CanetaForma/
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   language: pt-BR
 
   features:
@@ -23,7 +25,7 @@ markdown_extensions:
   - pymdownx.tabbed
 
 nav:
-  - Início: README.md
+  - Início: index.md
   - Português: pt-BR/README.md
   - English: en-US/README.md
   - Español: es-ES/README.md

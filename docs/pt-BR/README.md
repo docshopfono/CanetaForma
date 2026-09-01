@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/logo.png" alt="ShopFONO Logo" width="300" />
+</p>
+
 # ShopFONO — Instruções de Uso do Extensor Caneta FORMA®
 
 [🇧🇷 Português](../pt-BR/README.md) • [🇺🇸 English](../en-US/README.md) • [🇪🇸 Español](../es-ES/README.md)
