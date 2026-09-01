@@ -1,6 +1,6 @@
-<div align="center" style="background-color: #0E3A55; padding: 25px; border-radius: 10px; margin-bottom: 25px;">
-  <img src="../assets/logo.png" alt="ShopFONO Logo" width="350" style="display: block; margin: 0 auto;" />
-</div>
+<p align="center">
+  <img src="../assets/logo.png" alt="ShopFONO Logo" width="380" style="border-radius: 8px; max-width: 100%;" />
+</p>
 
 # ShopFONO — FORMA® Pen Extender Instructions for Use
 
