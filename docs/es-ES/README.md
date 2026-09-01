@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="../assets/logo.png" alt="ShopFONO Logo" width="300" />
-</p>
+<div align="center" style="background-color: #0E3A55; padding: 25px; border-radius: 10px; margin-bottom: 25px;">
+  <img src="../assets/logo.png" alt="ShopFONO Logo" width="350" style="display: block; margin: 0 auto;" />
+</div>
 
 # ShopFONO — Instrucciones de Uso del Extensor Caneta FORMA®
 
