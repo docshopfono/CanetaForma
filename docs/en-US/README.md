@@ -1,9 +1,9 @@
 # ShopFONO — FORMA® Pen Extender Instructions for Use
 
 <p align="center">
-  <a href="../pt-BR/README.md"><b>🇧🇷 Português</b></a> •
-  <a href="../en-US/README.md"><b>🇺🇸 English</b></a> •
-  <a href="../es-ES/README.md"><b>🇪🇸 Español</b></a>
+  <a href="docs/pt-BR/README.md"><b>???? Português</b></a> •
+  <a href="docs/en-US/README.md"><b>???? English</b></a> •
+  <a href="docs/es-ES/README.md"><b>???? Español</b></a>
 </p>
 
 ---
@@ -210,7 +210,7 @@ For information, inquiries, or product technical support, please contact us via 
 <p align="center">
   <b>ShopFONO — FORMA® Pen Extender</b><br>
   Document Code: DOC 2 | Revision: 10 | ANVISA Notification: 81379320001<br><br>
-  <a href="../pt-BR/README.md"><b>🇧🇷 Português</b></a> •
-  <a href="../en-US/README.md"><b>🇺🇸 English</b></a> •
-  <a href="../es-ES/README.md"><b>🇪🇸 Español</b></a>
+  <a href="docs/pt-BR/README.md"><b>???? Português</b></a> •
+  <a href="docs/en-US/README.md"><b>???? English</b></a> •
+  <a href="docs/es-ES/README.md"><b>???? Español</b></a>
 </p>
