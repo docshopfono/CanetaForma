@@ -1,12 +1,14 @@
 # ShopFONO — Extensor Caneta FORMA®
 
-<p align="center">
-  <b>Manual de Instruções de Uso Multilíngue / Multilingual Instructions for Use / Manual de Instrucciones Multilingüe</b>
-  <br><br>
-  <a href="docs/pt-BR/"><b>🇧🇷 Português</b></a> •
-  <a href="docs/en-US/"><b>🇺🇸 English</b></a> •
-  <a href="docs/es-ES/"><b>🇪🇸 Español</b></a>
-</p>
+Manual de Instruções de Uso Multilíngue / Multilingual Instructions for Use / Manual de Instrucciones Multilingüe
+
+---
+
+## 📌 Selecione seu Idioma / Select your Language / Seleccione su Idioma
+
+* 🇧🇷 **[Português (Brasil)](docs/pt-BR/README.md)** — Manual de Instruções de Uso oficial (DOC 2 - Rev. 10).
+* 🇺🇸 **[English](docs/en-US/README.md)** — Official Instructions for Use manual (DOC 2 - Rev. 10).
+* 🇪🇸 **[Español](docs/es-ES/README.md)** — Manual de Instrucciones de Uso oficial (DOC 2 - Rev. 10).
 
 ---
 
