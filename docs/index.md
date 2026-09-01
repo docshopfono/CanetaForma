@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  [🇧🇷 <b>Português</b>](pt-BR/README.md) &nbsp;•&nbsp;
-  [🇺🇸 <b>English</b>](en-US/README.md) &nbsp;•&nbsp;
-  [🇪🇸 <b>Español</b>](es-ES/README.md)
+  <a href="pt-BR/README.md"><b>🇧🇷 Português</b></a> &nbsp;•&nbsp;
+  <a href="en-US/README.md"><b>🇺🇸 English</b></a> &nbsp;•&nbsp;
+  <a href="es-ES/README.md"><b>🇪🇸 Español</b></a>
 </p>
 
 ---
