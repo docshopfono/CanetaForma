@@ -5,9 +5,9 @@
 # ShopFONO — Instruções de Uso do Extensor Caneta FORMA®
 
 <p align="center">
-  <a href="README.md"><b>🇧🇷 Português</b></a> &nbsp;•&nbsp;
-  <a href="docs/en-US/README.md"><b>🇺🇸 English</b></a> &nbsp;•&nbsp;
-  <a href="docs/es-ES/README.md"><b>🇪🇸 Español</b></a>
+  <a href="docs/pt-BR/"><b>🇧🇷 Português</b></a> &nbsp;•&nbsp;
+  <a href="docs/en-US/"><b>🇺🇸 English</b></a> &nbsp;•&nbsp;
+  <a href="docs/es-ES/"><b>🇪🇸 Español</b></a>
 </p>
 
 ---
